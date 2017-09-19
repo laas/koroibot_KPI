@@ -1,0 +1,12 @@
+40 degrees
+----------
+After 45 degrees we want down to 30 degrees
+did a check encoders values, then raised the chamber value up to 40 degrees
+CPU temperature was at 60 degrees at start
+Did the stairs 15 cm up.
+Then stop to do the calibration sensors.
+This one failed for the 10 cm degrees.
+The internal CPU temperature raised at 68-70 degrees.
+We assume that the internal power electronics temperature
+raised too much and triggered the internal protection.
+

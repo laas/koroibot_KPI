@@ -1,0 +1,27 @@
+Pushes:
+-------
+
+Back :
+1st trial : 42.78 N too fast 
+2nd trial : 32.77 N
+3rd trial : 32.02 N
+4th trial : 32.93 N
+
+lateral :
+1st trial : 74.48 N
+2nd and 3rd and 4th trials : 63.62 N, 66.28 N 68.77N
+
+forward : 
+1st trial : 20.05 N
+
+hwalk lateral
+1st trial : 40.41 N
+2nd trial : 28.75 N
+3rd trial : 23.55 N
+4th trial : 33.54 N
+
+hwalk back :
+1st trial : 32.01 N 
+2nd trial : 46.95 N
+3rd trial : 31.22 N
+4th trial : 

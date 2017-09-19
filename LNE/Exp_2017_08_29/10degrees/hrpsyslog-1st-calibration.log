@@ -1,0 +1,232 @@
+Bug: shell script unable to determine its own location: .
+hrpsys: no process found
+mem size=8320(6268,596,400,1056)
+HRP2LAAS
+-ORBInitRef NameService=corbaloc:iiop:localhost:2809/NameService
+mem size=8320(6268,596,400,1056)
+provider is already loaded
+provider is already created
+humanoid is already loaded
+HRP2LAAS is already created
+seqplay is already loaded
+seq is already created
+[HRP2LAAS] HRP2LAAS is already running
+[seq] seq is already running
+[provider] provider is already running
+[log] log is not running
+logplugin is already loaded
+provider is already loaded
+provider is already created
+humanoid is already loaded
+seqplay is already loaded
+[provider] provider is already running
+provider is already loaded
+provider is already created
+[provider] provider is already running
+humanoid is already loaded
+HRP2LAAS is already created
+[HRP2LAAS] HRP2LAAS is already running
+seqplay is already loaded
+seq is already created
+[seq] seq is already running
+confirm mode
+[1;37mOK:13:(error:  -0.056[deg], calibration data:  -5.249, joint angle:  -5.193)[m
+[1;37mOK:15:(error:  -0.030[deg], calibration data: -30.669, joint angle: -30.639)[m
+[1;37mOK:17:(error:  -0.003[deg], calibration data: -94.278, joint angle: -94.275)[m
+[1;37mOK:24:(error:   0.058[deg], calibration data:  94.699, joint angle:  94.641)[m
+[1;37mOK:16:(error:   0.031[deg], calibration data:  60.109, joint angle:  60.078)[m
+[1;37mOK:23:(error:   0.010[deg], calibration data:  60.111, joint angle:  60.101)[m
+[1;37mOK:18:(error:   0.020[deg], calibration data: -92.118, joint angle: -92.138)[m
+[1;37mOK:25:(error:  -0.053[deg], calibration data:  92.111, joint angle:  92.165)[m
+25: servo error limit over
+[1;37mOK:26:(error:  -0.001[deg], calibration data:   2.122, joint angle:   2.123)[m
+[1;37mOK:19:(error:  -0.000[deg], calibration data:   2.220, joint angle:   2.220)[m
+[1;33mAV:20:(error:   0.198[deg], calibration data: -92.279, joint angle: -92.477)[m
+[1;37mOK:27:(error:  -0.009[deg], calibration data:  92.298, joint angle:  92.307)[m
+[1;37mOK:28:(error:  -0.004[deg], calibration data: -91.944, joint angle: -91.940)[m
+[1;37mOK:21:(error:  -0.005[deg], calibration data: -92.026, joint angle: -92.021)[m
+[1;31mNG:29:(error:  26.605[deg], calibration data:  44.878, joint angle:  18.273)[m
+[1;31mNG:22:(error:   7.886[deg], calibration data:  44.581, joint angle:  36.695)[m
+[1;37mOK: 7:(error:   0.035[deg], calibration data:  33.000, joint angle:  32.965)[m
+[1;37mOK: 1:(error:  -0.011[deg], calibration data: -35.391, joint angle: -35.380)[m
+[1;31mNG: 3:(error:  -5.057[deg], calibration data:  -1.403, joint angle:   3.654)[m
+[1;37mOK: 9:(error:   0.008[deg], calibration data:  -1.607, joint angle:  -1.615)[m
+[1;31mNG: 6:(error:  44.868[deg], calibration data:  44.887, joint angle:   0.019)[m
+[1;37mOK: 2:(error:   0.048[deg], calibration data:  42.264, joint angle:  42.216)[m
+[1;31mNG: 0:(error: -44.981[deg], calibration data: -45.764, joint angle:  -0.783)[m
+[1;31mNG: 8:(error:   5.756[deg], calibration data:  43.466, joint angle:  37.710)[m
+[1;37mOK: 4:(error:   0.012[deg], calibration data:  43.446, joint angle:  43.434)[m
+[1;37mOK:10:(error:   0.036[deg], calibration data:  43.492, joint angle:  43.456)[m
+10: servo error limit over
+[1;31mNG: 5:(error: -16.869[deg], calibration data: -21.779, joint angle:  -4.910)[m
+[1;37mOK:11:(error:   0.065[deg], calibration data:  24.430, joint angle:  24.365)[m
+[1;37mOK:12:(error:   0.017[deg], calibration data:  44.933, joint angle:  44.916)[m
+[1;37mOK:14:(error:  -0.007[deg], calibration data:  45.179, joint angle:  45.186)[m
+[HRP2LAAS] Turn Off Relay
+[log] log is not running
+logplugin is already loaded
+provider is already loaded
+provider is already created
+humanoid is already loaded
+seqplay is already loaded
+[provider] provider is already running
+provider is already loaded
+provider is already created
+[provider] provider is already running
+humanoid is already loaded
+HRP2LAAS is already created
+[HRP2LAAS] HRP2LAAS is already running
+seqplay is already loaded
+seq is already created
+[seq] seq is already running
+confirm mode
+[1;37mOK:13:(error:  -0.096[deg], calibration data:  -5.249, joint angle:  -5.153)[m
+[1;37mOK:15:(error:  -0.030[deg], calibration data: -30.669, joint angle: -30.639)[m
+[1;37mOK:24:(error:   0.044[deg], calibration data:  94.699, joint angle:  94.655)[m
+[1;37mOK:17:(error:  -0.006[deg], calibration data: -94.278, joint angle: -94.272)[m
+[1;37mOK:16:(error:   0.028[deg], calibration data:  60.109, joint angle:  60.081)[m
+[1;37mOK:23:(error:   0.007[deg], calibration data:  60.111, joint angle:  60.104)[m
+[1;37mOK:18:(error:   0.006[deg], calibration data: -92.118, joint angle: -92.124)[m
+[1;33mAV:25:(error:  -0.108[deg], calibration data:  92.111, joint angle:  92.219)[m
+25: servo error limit over
+[1;37mOK:26:(error:  -0.000[deg], calibration data:   2.122, joint angle:   2.122)[m
+[1;37mOK:19:(error:  -0.000[deg], calibration data:   2.220, joint angle:   2.220)[m
+[1;33mAV:20:(error:   0.190[deg], calibration data: -92.279, joint angle: -92.469)[m
+[1;37mOK:27:(error:  -0.063[deg], calibration data:  92.298, joint angle:  92.361)[m
+[1;37mOK:28:(error:  -0.004[deg], calibration data: -91.944, joint angle: -91.940)[m
+[1;37mOK:21:(error:  -0.005[deg], calibration data: -92.026, joint angle: -92.021)[m
+[1;37mOK:29:(error:  -0.005[deg], calibration data:  44.878, joint angle:  44.883)[m
+[1;37mOK:22:(error:  -0.000[deg], calibration data:  44.581, joint angle:  44.581)[m
+22: servo error limit over
+[1;37mOK: 1:(error:  -0.020[deg], calibration data: -35.391, joint angle: -35.371)[m
+[1;37mOK: 7:(error:   0.035[deg], calibration data:  33.000, joint angle:  32.965)[m
+[1;31mNG: 3:(error:  -4.423[deg], calibration data:  -1.403, joint angle:   3.020)[m
+[1;37mOK: 9:(error:   0.013[deg], calibration data:  -1.607, joint angle:  -1.620)[m
+[1;37mOK: 2:(error:   0.030[deg], calibration data:  42.264, joint angle:  42.234)[m
+[1;37mOK: 6:(error:   0.004[deg], calibration data:  44.887, joint angle:  44.883)[m
+6: servo error limit over
+[1;31mNG: 0:(error:  -4.552[deg], calibration data: -45.764, joint angle: -41.212)[m
+[1;31mNG: 8:(error:   4.596[deg], calibration data:  43.466, joint angle:  38.870)[m
+[1;37mOK:10:(error:   0.034[deg], calibration data:  43.492, joint angle:  43.458)[m
+10: servo error limit over
+[1;37mOK: 4:(error:   0.012[deg], calibration data:  43.446, joint angle:  43.434)[m
+[1;31mNG: 5:(error: -16.685[deg], calibration data: -21.779, joint angle:  -5.094)[m
+[1;37mOK:11:(error:   0.065[deg], calibration data:  24.430, joint angle:  24.365)[m
+[1;37mOK:12:(error:  -0.005[deg], calibration data:  44.933, joint angle:  44.938)[m
+[1;37mOK:14:(error:  -0.011[deg], calibration data:  45.179, joint angle:  45.190)[m
+[HRP2LAAS] Turn Off Relay
+[log] log is not running
+logplugin is already loaded
+provider is already loaded
+provider is already created
+humanoid is already loaded
+seqplay is already loaded
+[provider] provider is already running
+provider is already loaded
+provider is already created
+[provider] provider is already running
+humanoid is already loaded
+HRP2LAAS is already created
+[HRP2LAAS] HRP2LAAS is already running
+seqplay is already loaded
+seq is already created
+[seq] seq is already running
+confirm mode
+[1;35mWN:13:(error:  -0.340[deg], calibration data:  -5.249, joint angle:  -4.909)[m
+[1;37mOK:15:(error:  -0.016[deg], calibration data: -30.669, joint angle: -30.653)[m
+[1;37mOK:17:(error:  -0.008[deg], calibration data: -94.278, joint angle: -94.270)[m
+[1;37mOK:24:(error:   0.053[deg], calibration data:  94.699, joint angle:  94.646)[m
+[1;37mOK:16:(error:   0.028[deg], calibration data:  60.109, joint angle:  60.081)[m
+[1;37mOK:23:(error:   0.012[deg], calibration data:  60.111, joint angle:  60.099)[m
+[1;33mAV:25:(error:  -0.121[deg], calibration data:  92.111, joint angle:  92.232)[m
+25: servo error limit over
+[1;37mOK:18:(error:   0.006[deg], calibration data: -92.118, joint angle: -92.124)[m
+[1;37mOK:26:(error:  -0.000[deg], calibration data:   2.122, joint angle:   2.122)[m
+[1;37mOK:19:(error:  -0.000[deg], calibration data:   2.220, joint angle:   2.220)[m
+[1;33mAV:20:(error:   0.188[deg], calibration data: -92.279, joint angle: -92.467)[m
+[1;37mOK:27:(error:  -0.050[deg], calibration data:  92.298, joint angle:  92.348)[m
+[1;37mOK:28:(error:   0.001[deg], calibration data: -91.944, joint angle: -91.945)[m
+[1;37mOK:21:(error:  -0.005[deg], calibration data: -92.026, joint angle: -92.021)[m
+[1;37mOK:22:(error:   0.005[deg], calibration data:  44.581, joint angle:  44.576)[m
+[1;37mOK:29:(error:  -0.019[deg], calibration data:  44.878, joint angle:  44.897)[m
+22: servo error limit over
+[1;37mOK: 7:(error:   0.047[deg], calibration data:  33.000, joint angle:  32.953)[m
+[1;37mOK: 1:(error:  -0.009[deg], calibration data: -35.391, joint angle: -35.382)[m
+[1;31mNG: 3:(error: -18.917[deg], calibration data:  -1.403, joint angle:  17.514)[m
+[1;37mOK: 9:(error:   0.013[deg], calibration data:  -1.607, joint angle:  -1.620)[m
+[1;37mOK: 2:(error:   0.046[deg], calibration data:  42.264, joint angle:  42.218)[m
+[1;37mOK: 6:(error:  -0.005[deg], calibration data:  44.887, joint angle:  44.892)[m
+6: servo error limit over
+[1;31mNG: 8:(error:   4.624[deg], calibration data:  43.466, joint angle:  38.842)[m
+[1;37mOK: 0:(error:   0.009[deg], calibration data: -45.764, joint angle: -45.773)[m
+0: servo error limit over
+[1;37mOK:10:(error:   0.034[deg], calibration data:  43.492, joint angle:  43.458)[m
+10: servo error limit over
+[1;37mOK: 4:(error:   0.014[deg], calibration data:  43.446, joint angle:  43.432)[m
+[1;31mNG: 5:(error: -16.469[deg], calibration data: -21.779, joint angle:  -5.310)[m
+[1;37mOK:11:(error:   0.080[deg], calibration data:  24.430, joint angle:  24.350)[m
+[1;37mOK:12:(error:  -0.002[deg], calibration data:  44.933, joint angle:  44.935)[m
+[1;37mOK:14:(error:  -0.011[deg], calibration data:  45.179, joint angle:  45.190)[m
+[HRP2LAAS] Turn Off Relay
+logplugin is already loaded
+log is already created
+provider is already loaded
+provider is already created
+humanoid is already loaded
+HRP2LAAS is already created
+seqplay is already loaded
+seq is already created
+[HRP2LAAS] HRP2LAAS is already running
+[seq] seq is already running
+[provider] provider is already running
+[log] log is not running
+logplugin is already loaded
+provider is already loaded
+provider is already created
+humanoid is already loaded
+seqplay is already loaded
+[provider] provider is already running
+provider is already loaded
+provider is already created
+[provider] provider is already running
+humanoid is already loaded
+HRP2LAAS is already created
+[HRP2LAAS] HRP2LAAS is already running
+seqplay is already loaded
+seq is already created
+[seq] seq is already running
+confirm mode
+[1;37mOK:13:(error:  -0.009[deg], calibration data:  -5.249, joint angle:  -5.240)[m
+[1;37mOK:15:(error:   0.001[deg], calibration data: -30.669, joint angle: -30.670)[m
+[1;37mOK:24:(error:   0.033[deg], calibration data:  94.699, joint angle:  94.666)[m
+[1;37mOK:17:(error:   0.000[deg], calibration data: -94.278, joint angle: -94.278)[m
+[1;37mOK:23:(error:   0.005[deg], calibration data:  60.111, joint angle:  60.106)[m
+[1;37mOK:16:(error:   0.028[deg], calibration data:  60.109, joint angle:  60.081)[m
+[1;37mOK:18:(error:   0.006[deg], calibration data: -92.118, joint angle: -92.124)[m
+[1;33mAV:25:(error:  -0.168[deg], calibration data:  92.111, joint angle:  92.279)[m
+[1;37mOK:26:(error:  -0.000[deg], calibration data:   2.122, joint angle:   2.122)[m
+[1;37mOK:19:(error:  -0.002[deg], calibration data:   2.220, joint angle:   2.222)[m
+[1;37mOK:20:(error:   0.091[deg], calibration data: -92.279, joint angle: -92.370)[m
+[1;37mOK:27:(error:  -0.055[deg], calibration data:  92.298, joint angle:  92.353)[m
+[1;37mOK:28:(error:  -0.004[deg], calibration data: -91.944, joint angle: -91.940)[m
+[1;37mOK:21:(error:  -0.005[deg], calibration data: -92.026, joint angle: -92.021)[m
+[1;37mOK:22:(error:   0.005[deg], calibration data:  44.581, joint angle:  44.576)[m
+22: servo error limit over
+[1;37mOK:29:(error:  -0.014[deg], calibration data:  44.878, joint angle:  44.892)[m
+[1;37mOK: 1:(error:  -0.009[deg], calibration data: -35.391, joint angle: -35.382)[m
+[1;37mOK: 7:(error:   0.015[deg], calibration data:  33.000, joint angle:  32.985)[m
+[1;37mOK: 9:(error:   0.013[deg], calibration data:  -1.607, joint angle:  -1.620)[m
+[1;37mOK: 3:(error:   0.008[deg], calibration data:  -1.403, joint angle:  -1.411)[m
+[1;37mOK: 2:(error:   0.090[deg], calibration data:  42.264, joint angle:  42.174)[m
+[1;37mOK: 6:(error:  -0.005[deg], calibration data:  44.887, joint angle:  44.892)[m
+6: servo error limit over
+[1;37mOK: 0:(error:   0.009[deg], calibration data: -45.764, joint angle: -45.773)[m
+[1;33mAV: 8:(error:   0.250[deg], calibration data:  43.466, joint angle:  43.216)[m
+0: servo error limit over
+[1;37mOK:10:(error:  -0.008[deg], calibration data:  43.492, joint angle:  43.500)[m
+[1;37mOK: 4:(error:   0.010[deg], calibration data:  43.446, joint angle:  43.436)[m
+10: servo error limit over
+[1;31mNG: 5:(error: -10.126[deg], calibration data: -21.779, joint angle: -11.653)[m
+[1;37mOK:11:(error:   0.087[deg], calibration data:  24.430, joint angle:  24.343)[m
+[1;37mOK:14:(error:  -0.014[deg], calibration data:  45.179, joint angle:  45.193)[m
+[1;37mOK:12:(error:  -0.005[deg], calibration data:  44.933, joint angle:  44.938)[m

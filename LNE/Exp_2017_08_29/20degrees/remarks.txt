@@ -1,0 +1,22 @@
+20 degrees:
+-----------
+CPU raised from 37 degrees to 40-41 degrees. (from 10 to 20)
+After the first series of 15 cm up the CPU temperature raised to 43-45 degrees
+
+
+Stairs 15 cm:
+-------------
+We had pose calibration problems with the first experiments.
+We had to correct the robot at the first trial.
+2 experiments (3-4) failed because the robot fall backward
+
+
+Stairs 10 cm:
+-------------
+Complete failure the first time.
+We had to do a force sensor calibration probably due to temperature difference.
+One failure after (but we do not know if it is coming from a shock/disturbance to the robot).
+
+hwalk, walkOnaBeam, nonlinearPG no pb.
+
+At the end of the three series CPU temperature: 48-49 degrees.

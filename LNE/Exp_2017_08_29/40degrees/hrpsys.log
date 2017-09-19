@@ -1,0 +1,342 @@
+Bug: shell script unable to determine its own location: .
+hrpsys: no process found
+mem size=8320(6268,596,400,1056)
+HRP2LAAS
+-ORBInitRef NameService=corbaloc:iiop:localhost:2809/NameService
+mem size=8320(6268,596,400,1056)
+provider is already loaded
+provider is already created
+humanoid is already loaded
+HRP2LAAS is already created
+seqplay is already loaded
+seq is already created
+[HRP2LAAS] HRP2LAAS is already running
+[seq] seq is already running
+[provider] provider is already running
+[log] log is not running
+logplugin is already loaded
+provider is already loaded
+provider is already created
+humanoid is already loaded
+seqplay is already loaded
+[provider] provider is already running
+confirm mode
+provider is already loaded
+provider is already created
+[provider] provider is already running
+humanoid is already loaded
+HRP2LAAS is already created
+[1;31mNG:15:(error: -31.558[deg], calibration data: -30.669, joint angle:   0.889)[m
+[HRP2LAAS] HRP2LAAS is already running
+seqplay is already loaded
+seq is already created
+[1;31mNG:13:(error: -13.833[deg], calibration data:  -5.249, joint angle:   8.584)[m
+[1;31mNG:24:(error:  94.130[deg], calibration data:  94.699, joint angle:   0.569)[m
+[1;31mNG:17:(error: -93.725[deg], calibration data: -94.278, joint angle:  -0.553)[m
+[1;31mNG:16:(error:  57.290[deg], calibration data:  60.109, joint angle:   2.819)[m
+[1;31mNG:23:(error:  61.287[deg], calibration data:  60.111, joint angle:  -1.176)[m
+[1;31mNG:25:(error:  91.483[deg], calibration data:  92.111, joint angle:   0.628)[m
+[1;31mNG:18:(error: -91.328[deg], calibration data: -92.118, joint angle:  -0.790)[m
+[1;31mNG:26:(error:   2.188[deg], calibration data:   2.122, joint angle:  -0.066)[m
+[1;31mNG:19:(error:  23.450[deg], calibration data:   2.220, joint angle: -21.230)[m
+[1;31mNG:27:(error:  92.216[deg], calibration data:  92.298, joint angle:   0.082)[m
+[1;31mNG:20:(error: -92.042[deg], calibration data: -92.279, joint angle:  -0.237)[m
+[1;31mNG:28:(error: -91.532[deg], calibration data: -91.944, joint angle:  -0.412)[m
+[1;31mNG:21:(error: -87.505[deg], calibration data: -92.026, joint angle:  -4.521)[m
+[1;31mNG:22:(error:  39.309[deg], calibration data:  44.581, joint angle:   5.272)[m
+[1;31mNG:29:(error:  39.680[deg], calibration data:  44.878, joint angle:   5.198)[m
+[1;31mNG: 1:(error: -35.091[deg], calibration data: -35.391, joint angle:  -0.300)[m
+[1;31mNG: 7:(error:  37.506[deg], calibration data:  33.000, joint angle:  -4.506)[m
+[1;31mNG: 3:(error:  -1.617[deg], calibration data:  -1.403, joint angle:   0.214)[m
+[1;31mNG: 9:(error:  -1.879[deg], calibration data:  -1.607, joint angle:   0.272)[m
+[1;31mNG: 2:(error:  35.874[deg], calibration data:  42.264, joint angle:   6.390)[m
+[1;31mNG: 6:(error:  44.704[deg], calibration data:  44.887, joint angle:   0.183)[m
+[1;31mNG: 8:(error:  35.146[deg], calibration data:  43.466, joint angle:   8.320)[m
+[1;31mNG: 0:(error: -45.352[deg], calibration data: -45.764, joint angle:  -0.412)[m
+[1;31mNG:10:(error:  43.394[deg], calibration data:  43.492, joint angle:   0.098)[m
+[1;31mNG: 4:(error:  43.532[deg], calibration data:  43.446, joint angle:  -0.086)[m
+[1;31mNG: 5:(error: -21.718[deg], calibration data: -21.779, joint angle:  -0.061)[m
+[1;31mNG:11:(error:  24.390[deg], calibration data:  24.430, joint angle:   0.040)[m
+[1;31mNG:12:(error:  43.985[deg], calibration data:  44.933, joint angle:   0.948)[m
+[1;31mNG:14:(error:  45.105[deg], calibration data:  45.179, joint angle:   0.074)[m
+[seq] seq is already running
+[HRP2LAAS] Turn Off Relay
+[log] log is not running
+logplugin is already loaded
+provider is already loaded
+provider is already created
+humanoid is already loaded
+seqplay is already loaded
+[provider] provider is already running
+provider is already loaded
+provider is already created
+[provider] provider is already running
+humanoid is already loaded
+HRP2LAAS is already created
+[HRP2LAAS] HRP2LAAS is already running
+seqplay is already loaded
+seq is already created
+[seq] seq is already running
+confirm mode
+[1;37mOK:13:(error:   0.026[deg], calibration data:  -5.249, joint angle:  -5.275)[m
+[1;37mOK:15:(error:   0.026[deg], calibration data: -30.669, joint angle: -30.695)[m
+[1;37mOK:17:(error:   0.002[deg], calibration data: -94.278, joint angle: -94.280)[m
+[1;37mOK:24:(error:  -0.012[deg], calibration data:  94.699, joint angle:  94.711)[m
+[1;37mOK:16:(error:   0.026[deg], calibration data:  60.109, joint angle:  60.083)[m
+[1;37mOK:23:(error:   0.023[deg], calibration data:  60.111, joint angle:  60.088)[m
+[1;37mOK:18:(error:  -0.021[deg], calibration data: -92.118, joint angle: -92.097)[m
+[1;37mOK:25:(error:  -0.047[deg], calibration data:  92.111, joint angle:  92.158)[m
+[1;37mOK:26:(error:  -0.001[deg], calibration data:   2.122, joint angle:   2.123)[m
+[1;37mOK:19:(error:   0.035[deg], calibration data:   2.220, joint angle:   2.185)[m
+[1;37mOK:27:(error:   0.034[deg], calibration data:  92.298, joint angle:  92.264)[m
+[1;33mAV:20:(error:   0.183[deg], calibration data: -92.279, joint angle: -92.462)[m
+[1;37mOK:21:(error:  -0.010[deg], calibration data: -92.026, joint angle: -92.016)[m
+[1;37mOK:28:(error:   0.016[deg], calibration data: -91.944, joint angle: -91.960)[m
+[1;37mOK:22:(error:   0.059[deg], calibration data:  44.581, joint angle:  44.522)[m
+[1;37mOK:29:(error:   0.009[deg], calibration data:  44.878, joint angle:  44.869)[m
+[1;37mOK: 1:(error:   0.059[deg], calibration data: -35.391, joint angle: -35.450)[m
+[1;37mOK: 7:(error:  -0.020[deg], calibration data:  33.000, joint angle:  33.020)[m
+[1;37mOK: 9:(error:  -0.018[deg], calibration data:  -1.607, joint angle:  -1.589)[m
+[1;37mOK: 3:(error:   0.006[deg], calibration data:  -1.403, joint angle:  -1.409)[m
+[1;33mAV: 2:(error:   0.270[deg], calibration data:  42.264, joint angle:  41.994)[m
+[1;37mOK: 6:(error:   0.018[deg], calibration data:  44.887, joint angle:  44.869)[m
+[1;35mWN: 8:(error:  -0.408[deg], calibration data:  43.466, joint angle:  43.874)[m
+[1;37mOK: 0:(error:  -0.019[deg], calibration data: -45.764, joint angle: -45.745)[m
+[1;33mAV:10:(error:   0.144[deg], calibration data:  43.492, joint angle:  43.348)[m
+[1;33mAV: 4:(error:   0.132[deg], calibration data:  43.446, joint angle:  43.314)[m
+[1;37mOK: 5:(error:  -0.010[deg], calibration data: -21.779, joint angle: -21.769)[m
+[1;33mAV:11:(error:  -0.115[deg], calibration data:  24.430, joint angle:  24.545)[m
+[1;37mOK:12:(error:  -0.042[deg], calibration data:  44.933, joint angle:  44.975)[m
+[1;37mOK:14:(error:   0.014[deg], calibration data:  45.179, joint angle:  45.165)[m
+[HRP2LAAS] Turn Off Relay
+[log] log is not running
+logplugin is already loaded
+provider is already loaded
+provider is already created
+humanoid is already loaded
+seqplay is already loaded
+[provider] provider is already running
+provider is already loaded
+provider is already created
+[provider] provider is already running
+humanoid is already loaded
+HRP2LAAS is already created
+[HRP2LAAS] HRP2LAAS is already running
+seqplay is already loaded
+seq is already created
+[seq] seq is already running
+confirm mode
+[1;37mOK:13:(error:   0.048[deg], calibration data:  -5.249, joint angle:  -5.297)[m
+[1;37mOK:15:(error:   0.008[deg], calibration data: -30.669, joint angle: -30.677)[m
+[1;37mOK:17:(error:   0.003[deg], calibration data: -94.278, joint angle: -94.281)[m
+[1;37mOK:24:(error:  -0.008[deg], calibration data:  94.699, joint angle:  94.707)[m
+[1;37mOK:23:(error:   0.010[deg], calibration data:  60.111, joint angle:  60.101)[m
+[1;37mOK:16:(error:   0.019[deg], calibration data:  60.109, joint angle:  60.090)[m
+[1;37mOK:18:(error:  -0.021[deg], calibration data: -92.118, joint angle: -92.097)[m
+[1;37mOK:25:(error:  -0.053[deg], calibration data:  92.111, joint angle:  92.165)[m
+[1;37mOK:26:(error:   0.001[deg], calibration data:   2.122, joint angle:   2.121)[m
+[1;37mOK:19:(error:   0.036[deg], calibration data:   2.220, joint angle:   2.184)[m
+[1;33mAV:20:(error:   0.183[deg], calibration data: -92.279, joint angle: -92.462)[m
+[1;37mOK:27:(error:   0.027[deg], calibration data:  92.298, joint angle:  92.271)[m
+[1;37mOK:28:(error:   0.016[deg], calibration data: -91.944, joint angle: -91.960)[m
+[1;37mOK:21:(error:   0.000[deg], calibration data: -92.026, joint angle: -92.026)[m
+[1;37mOK:22:(error:   0.057[deg], calibration data:  44.581, joint angle:  44.524)[m
+[1;37mOK:29:(error:  -0.005[deg], calibration data:  44.878, joint angle:  44.883)[m
+[1;37mOK: 1:(error:   0.059[deg], calibration data: -35.391, joint angle: -35.450)[m
+[1;37mOK: 7:(error:   0.015[deg], calibration data:  33.000, joint angle:  32.985)[m
+[1;37mOK: 3:(error:   0.008[deg], calibration data:  -1.403, joint angle:  -1.411)[m
+[1;37mOK: 9:(error:  -0.019[deg], calibration data:  -1.607, joint angle:  -1.588)[m
+[1;37mOK: 6:(error:   0.018[deg], calibration data:  44.887, joint angle:  44.869)[m
+[1;33mAV: 2:(error:   0.242[deg], calibration data:  42.264, joint angle:  42.022)[m
+[1;37mOK: 0:(error:  -0.019[deg], calibration data: -45.764, joint angle: -45.745)[m
+[1;35mWN: 8:(error:  -0.400[deg], calibration data:  43.466, joint angle:  43.866)[m
+[1;33mAV:10:(error:   0.140[deg], calibration data:  43.492, joint angle:  43.352)[m
+[1;33mAV: 4:(error:   0.124[deg], calibration data:  43.446, joint angle:  43.322)[m
+[1;37mOK: 5:(error:  -0.003[deg], calibration data: -21.779, joint angle: -21.776)[m
+[1;33mAV:11:(error:  -0.115[deg], calibration data:  24.430, joint angle:  24.545)[m
+[1;37mOK:12:(error:  -0.042[deg], calibration data:  44.933, joint angle:  44.975)[m
+[1;37mOK:14:(error:   0.017[deg], calibration data:  45.179, joint angle:  45.162)[m
+[HRP2LAAS] Turn Off Relay
+provider is already loaded
+provider is already created
+[provider] provider is already running
+humanoid is already loaded
+HRP2LAAS is already created
+[HRP2LAAS] HRP2LAAS is already running
+seqplay is already loaded
+seq is already created
+[seq] seq is already running
+seqplay is already loaded
+seq is already created
+logplugin is already loaded
+log is already created
+log:method(max-length) not found
+[seq] seq is already running
+kfplugin is already loaded
+seqplay is already loaded
+seq is already created
+logplugin is already loaded
+log:method(max-length) not found
+[seq] seq is already running
+kfplugin is already loaded
+seqplay is already loaded
+seq is already created
+logplugin is already loaded
+log is already created
+log:method(max-length) not found
+[seq] seq is already running
+kfplugin is already loaded
+seqplay is already loaded
+seq is already created
+logplugin is already loaded
+log is already created
+log:method(max-length) not found
+[seq] seq is already running
+kfplugin is already loaded
+seqplay is already loaded
+seq is already created
+logplugin is already loaded
+log is already created
+log:method(max-length) not found
+[seq] seq is already running
+kfplugin is already loaded
+seqplay is already loaded
+seq is already created
+logplugin is already loaded
+log is already created
+log:method(max-length) not found
+[seq] seq is already running
+logplugin is already loaded
+log is already created
+provider is already loaded
+provider is already created
+humanoid is already loaded
+HRP2LAAS is already created
+seqplay is already loaded
+seq is already created
+[HRP2LAAS] HRP2LAAS is already running
+[seq] seq is already running
+[provider] provider is already running
+[log] log is not running
+logplugin is already loaded
+provider is already loaded
+provider is already created
+humanoid is already loaded
+seqplay is already loaded
+[provider] provider is already running
+provider is already loaded
+provider is already created
+[provider] provider is already running
+humanoid is already loaded
+HRP2LAAS is already created
+[HRP2LAAS] HRP2LAAS is already running
+seqplay is already loaded
+seq is already created
+[seq] seq is already running
+logplugin is already loaded
+log is already created
+provider is already loaded
+provider is already created
+humanoid is already loaded
+HRP2LAAS is already created
+seqplay is already loaded
+seq is already created
+[HRP2LAAS] HRP2LAAS is already running
+[seq] seq is already running
+[provider] provider is already running
+servo error limit over(RARM_JOINT3:angle = -76.2764, reference = -64.8141[deg])
+emergency signal
+[log] log is not running
+[HRP2LAAS] ss is strange
+[log] log is not running
+logplugin is already loaded
+provider is already loaded
+provider is already created
+humanoid is already loaded
+seqplay is already loaded
+[provider] provider is already running
+provider is already loaded
+provider is already created
+[provider] provider is already running
+humanoid is already loaded
+HRP2LAAS is already created
+[HRP2LAAS] HRP2LAAS is already running
+seqplay is already loaded
+seq is already created
+[seq] seq is already running
+[HRP2LAAS] ss is strange
+[log] log is not running
+logplugin is already loaded
+provider is already loaded
+provider is already created
+humanoid is already loaded
+seqplay is already loaded
+[provider] provider is already running
+provider is already loaded
+provider is already created
+[provider] provider is already running
+humanoid is already loaded
+HRP2LAAS is already created
+[HRP2LAAS] HRP2LAAS is already running
+seqplay is already loaded
+seq is already created
+[seq] seq is already running
+logplugin is already loaded
+log is already created
+provider is already loaded
+provider is already created
+humanoid is already loaded
+HRP2LAAS is already created
+seqplay is already loaded
+seq is already created
+[HRP2LAAS] HRP2LAAS is already running
+[seq] seq is already running
+[provider] provider is already running
+[log] log is not running
+logplugin is already loaded
+provider is already loaded
+provider is already created
+humanoid is already loaded
+seqplay is already loaded
+[provider] provider is already running
+[HRP2LAAS] ss is strange
+provider is already loaded
+provider is already created
+[provider] provider is already running
+humanoid is already loaded
+HRP2LAAS is already created
+[HRP2LAAS] HRP2LAAS is already running
+seqplay is already loaded
+seq is already created
+[seq] seq is already running
+confirm mode
+[1;31mNG:15:(error: -30.746[deg], calibration data: -30.669, joint angle:   0.077)[m
+[1;31mNG:13:(error:  -5.882[deg], calibration data:  -5.249, joint angle:   0.633)[m
+[1;31mNG:24:(error:  83.306[deg], calibration data:  94.699, joint angle:  11.393)[m
+[1;31mNG:17:(error: -90.464[deg], calibration data: -94.278, joint angle:  -3.814)[m
+[1;31mNG:16:(error:  46.248[deg], calibration data:  60.109, joint angle:  13.861)[m
+[1;31mNG:23:(error:  46.767[deg], calibration data:  60.111, joint angle:  13.344)[m
+[1;31mNG:25:(error:  92.408[deg], calibration data:  92.111, joint angle:  -0.297)[m
+[1;31mNG:18:(error: -95.371[deg], calibration data: -92.118, joint angle:   3.253)[m
+[1;31mNG:26:(error:  30.324[deg], calibration data:   2.122, joint angle: -28.202)[m
+[1;31mNG:19:(error:  51.197[deg], calibration data:   2.220, joint angle: -48.977)[m
+[1;31mNG:27:(error:  92.211[deg], calibration data:  92.298, joint angle:   0.087)[m
+[1;31mNG:20:(error: -48.947[deg], calibration data: -92.279, joint angle: -43.332)[m
+[1;31mNG:28:(error: -91.990[deg], calibration data: -91.944, joint angle:   0.046)[m
+[1;31mNG:21:(error:-124.729[deg], calibration data: -92.026, joint angle:  32.703)[m
+[1;31mNG:22:(error:   8.749[deg], calibration data:  44.581, joint angle:  35.832)[m
+[1;31mNG:29:(error:  27.086[deg], calibration data:  44.878, joint angle:  17.792)[m
+[1;31mNG: 1:(error: -37.203[deg], calibration data: -35.391, joint angle:   1.812)[m
+[1;31mNG: 7:(error:  38.891[deg], calibration data:  33.000, joint angle:  -5.891)[m
+[1;31mNG: 3:(error: -62.709[deg], calibration data:  -1.403, joint angle:  61.306)[m
+[1;31mNG: 9:(error: -70.614[deg], calibration data:  -1.607, joint angle:  69.007)[m
+[1;31mNG: 2:(error:  66.908[deg], calibration data:  42.264, joint angle: -24.644)[m
+[1;31mNG: 6:(error:  44.887[deg], calibration data:  44.887, joint angle:  -0.000)[m
+[1;31mNG: 8:(error:  71.138[deg], calibration data:  43.466, joint angle: -27.672)[m
+[1;31mNG: 0:(error: -45.487[deg], calibration data: -45.764, joint angle:  -0.277)[m
+[1;31mNG:10:(error:  76.554[deg], calibration data:  43.492, joint angle: -33.062)[m
+[1;31mNG: 4:(error:  76.344[deg], calibration data:  43.446, joint angle: -32.898)[m
+[1;31mNG: 5:(error: -21.358[deg], calibration data: -21.779, joint angle:  -0.421)[m
+[1;31mNG:11:(error:  24.855[deg], calibration data:  24.430, joint angle:  -0.425)[m
+[1;31mNG:12:(error:  44.739[deg], calibration data:  44.933, joint angle:   0.194)[m
+[1;31mNG:14:(error:  45.137[deg], calibration data:  45.179, joint angle:   0.042)[m

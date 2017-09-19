@@ -1,0 +1,10 @@
+45 degrees
+==========
+
+No pb during calibration.
+We had no pb during the calibration. Only average error.
+CPU Temperature sensor raising from 45 degrees to 61.
+Up to 68 degrees.
+70 degrees CPU.
+45 degrees: the check encoders complete failure.
+

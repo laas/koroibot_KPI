@@ -1,0 +1,5 @@
+30 degrees
+----------
+CPU from 49 to 60 degrees.
+
+At the end of the session on 15 cm stairs up CPU temperature stabilized to 60 degrees.

@@ -1,0 +1,22 @@
+10 degrees:
+------------
+First test:
+25 deg CPU
+After 10 minutes from 5 degrees to 10 degrees.
+Real problems on the:
+RLEG_JOINT0 (servo error)
+LLEG_JOINT0 (servo error)
+LLEG_JOINT4 (servo error)
+RLEG_JOINT5 (ng: 10 deg of error) and 
+LLEG_JOINT2 (wn: error of 0.250 deg)
+
+
+Snd test:
+28 deg CPU
+After 20 minutes from 5 degrees to 10 degrees.
+Problems on:
+RLEG_JOINT0 (servo error)
+LLEG_JOINT4 (servo error)
+LLEG_JOINT2 (not good)
+
+Third test:

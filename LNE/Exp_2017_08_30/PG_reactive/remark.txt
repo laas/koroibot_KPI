@@ -1,0 +1,31 @@
+
+lateral pushes
+1st trial : 22.02 N
+2nd trial : 32.57 N
+3rd trial : 40.04 N
+
+back pushes 
+1st trial : 29.32 N
+2nd trial : 24.87 N
+3rd trial : 25.90 N
+
+bearings :
+4 kg : 1st and 2nd work without log... 3rd we have logs (export ROS_MASTER_URI was not done)
+8 kg : 1 OK, 2 fails 1st steps (maybe due to ground) and ok, 3rd ok.
+14 kg : 1 begins to fails backward and Olivier rescue, then ok
+        2 ok,
+        3 complete fail (intertrial variability : walking perpendicular to previous ones)
+16 kg : not done given from the previous trials
+
+slopes :
+npg
+1 degree : one bottom to top (forward)
+one top to bottom (forward)
+2 degreess: bottom to top (forward) -> failure at the beginning (but finished)
+1.5 degrees: bottom to top (backward)
+1.5 degrees: top to bottom (forward)
+2 degrees: bottom to top (backward failure: crack )
+2 degrees: top to bottom (forward: ok)
+3 degrees: top to bottom (forward failure: crack)
+
+

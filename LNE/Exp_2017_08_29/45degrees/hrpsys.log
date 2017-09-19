@@ -1,0 +1,87 @@
+Bug: shell script unable to determine its own location: .
+hrpsys: no process found
+mem size=8320(6268,596,400,1056)
+HRP2LAAS
+-ORBInitRef NameService=corbaloc:iiop:localhost:2809/NameService
+mem size=8320(6268,596,400,1056)
+provider is already loaded
+provider is already created
+humanoid is already loaded
+HRP2LAAS is already created
+seqplay is already loaded
+seq is already created
+[HRP2LAAS] HRP2LAAS is already running
+[seq] seq is already running
+[provider] provider is already running
+[log] log is not running
+logplugin is already loaded
+provider is already loaded
+provider is already created
+humanoid is already loaded
+seqplay is already loaded
+[provider] provider is already running
+provider is already loaded
+provider is already created
+[provider] provider is already running
+humanoid is already loaded
+HRP2LAAS is already created
+[HRP2LAAS] HRP2LAAS is already running
+seqplay is already loaded
+seq is already created
+[seq] seq is already running
+confirm mode
+[1;37mOK:13:(error:   0.042[deg], calibration data:  -5.249, joint angle:  -5.291)[m
+[1;37mOK:15:(error:   0.001[deg], calibration data: -30.669, joint angle: -30.670)[m
+[1;37mOK:24:(error:  -0.011[deg], calibration data:  94.699, joint angle:  94.710)[m
+[1;37mOK:17:(error:   0.005[deg], calibration data: -94.278, joint angle: -94.283)[m
+[1;37mOK:23:(error:   0.020[deg], calibration data:  60.111, joint angle:  60.091)[m
+[1;37mOK:16:(error:   0.042[deg], calibration data:  60.109, joint angle:  60.067)[m
+[1;37mOK:25:(error:  -0.033[deg], calibration data:  92.111, joint angle:  92.144)[m
+[1;37mOK:18:(error:  -0.014[deg], calibration data: -92.118, joint angle: -92.104)[m
+[1;37mOK:26:(error:   0.001[deg], calibration data:   2.122, joint angle:   2.121)[m
+[1;37mOK:19:(error:   0.035[deg], calibration data:   2.220, joint angle:   2.185)[m
+[1;37mOK:27:(error:   0.039[deg], calibration data:  92.298, joint angle:  92.259)[m
+[1;33mAV:20:(error:   0.181[deg], calibration data: -92.279, joint angle: -92.460)[m
+[1;37mOK:28:(error:   0.011[deg], calibration data: -91.944, joint angle: -91.955)[m
+[1;37mOK:21:(error:  -0.005[deg], calibration data: -92.026, joint angle: -92.021)[m
+[1;37mOK:29:(error:   0.012[deg], calibration data:  44.878, joint angle:  44.866)[m
+[1;37mOK:22:(error:   0.085[deg], calibration data:  44.581, joint angle:  44.496)[m
+[1;37mOK: 1:(error:   0.056[deg], calibration data: -35.391, joint angle: -35.447)[m
+[1;37mOK: 7:(error:  -0.026[deg], calibration data:  33.000, joint angle:  33.026)[m
+[1;37mOK: 3:(error:   0.006[deg], calibration data:  -1.403, joint angle:  -1.409)[m
+[1;37mOK: 9:(error:  -0.016[deg], calibration data:  -1.607, joint angle:  -1.591)[m
+[1;37mOK: 6:(error:   0.018[deg], calibration data:  44.887, joint angle:  44.869)[m
+[1;33mAV: 2:(error:   0.298[deg], calibration data:  42.264, joint angle:  41.966)[m
+[1;37mOK: 0:(error:  -0.014[deg], calibration data: -45.764, joint angle: -45.750)[m
+[1;33mAV: 8:(error:  -0.250[deg], calibration data:  43.466, joint angle:  43.716)[m
+[1;33mAV:10:(error:   0.146[deg], calibration data:  43.492, joint angle:  43.346)[m
+[1;33mAV: 4:(error:   0.122[deg], calibration data:  43.446, joint angle:  43.324)[m
+[1;37mOK: 5:(error:  -0.006[deg], calibration data: -21.779, joint angle: -21.773)[m
+[1;33mAV:11:(error:  -0.115[deg], calibration data:  24.430, joint angle:  24.545)[m
+[1;37mOK:12:(error:  -0.035[deg], calibration data:  44.933, joint angle:  44.968)[m
+[1;37mOK:14:(error:   0.017[deg], calibration data:  45.179, joint angle:  45.162)[m
+[HRP2LAAS] Turn Off Relay
+[log] log is not running
+logplugin is already loaded
+provider is already loaded
+provider is already created
+humanoid is already loaded
+seqplay is already loaded
+[provider] provider is already running
+provider is already loaded
+provider is already created
+[provider] provider is already running
+humanoid is already loaded
+HRP2LAAS is already created
+[HRP2LAAS] HRP2LAAS is already running
+seqplay is already loaded
+seq is already created
+[seq] seq is already running
+logplugin is already loaded
+log is already created
+provider is already loaded
+provider is already created
+humanoid is already loaded
+HRP2LAAS is already created
+seqplay is already loaded
+seq is already created

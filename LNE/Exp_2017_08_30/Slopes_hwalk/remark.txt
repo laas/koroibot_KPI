@@ -1,0 +1,16 @@
+Slope:
+------
+From bottom to top:
+1deg
+2deg -> failed
+
+From top to bottom:
+1deg ok
+2deg ok
+3deg ok
+4deg failure
+3.5deg-> failure
+3.0 deg-> ok
+3.2 ->failure
+3.0->failure
+

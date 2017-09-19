@@ -1,0 +1,10 @@
+3 degrees:
+----------
+It is very difficult to make the joints move by hand.
+There is a lot of frictions.
+3 trials with failures for the calibration.
+Mostly the left arm RARM_JOINT2,
++ the legs on the yaw + the ankles.
+
+Therefore we do a test at 10 degrees
+

@@ -1,0 +1,9 @@
+Bearing :
+--------
+before triying bearing we had 2 degrees of error on RLEG_JOINT1 (due to slope behaviour)
+4kg 3 trials ok
+8kg 3 trials ok
+14kg 1 trial ok but increases error to 3degrees
+complete overwrite
+14kg 2 trials ok
+16kg fails 1 trial

@@ -1,0 +1,45 @@
+fw <--> bk (sagital plane)
+1st exp: 1 Hz 10 mm -> Ok
+1st exp: 1 Hz 20 mm -> ok
+1st exp: 1 Hz 30 mm -> ok
+1st exp: 1 Hz 40 mm -> ok
+1st exp: 1 Hz 48 mm -> ok
+
+lateral (coronal plane) 
+1st exp: 1 Hz 10 mm -> ok
+1st exp: 1 Hz 20 mm -> ok
+1st exp: 1 Hz 30 mm -> ok
+1st exp: 1 Hz 40 mm -> ok one foot raises
+1st exp: 1 Hz 48 mm -> ok both feet raise
+
+lateral (coronal plane)
+1st exp: 2 Hz 10 mm -> ok
+1st exp: 2 Hz 20 mm -> ok
+1st exp: 2 Hz 30 mm -> ok
+1st exp: 2 Hz 40 mm -> ok but has turned on the left ~15deg
+1st exp: 2 Hz 48 mm -> ok but has turned on the left ~20deg
+
+fw <--> bk (sagital plane)
+1st exp: 2 Hz 10 mm -> ok 
+1st exp: 2 Hz 20 mm -> ok
+1st exp: 2 Hz 30 mm -> ok
+1st exp: 2 Hz 40 mm -> ok large front raising (feet)
+1st exp: 2 Hz 48 mm -> ok large front raising (feet)
+
+fw <--> bk (sagital plane)
+continous  increasing 10mm
+plateau 3hz : ok
+plateau 4hz : ok
+plateau 5hz : ok
+plateau 6hz : ok
+plateau 7hz : ok
+
+lateral (coronal plane)
+continous  increasing 10mm
+plateau 3hz : ok 
+plateau 4hz : ok
+plateau 5hz : ok
+plateau 6hz : ok
+plateau 7hz : near upper body resonance frequency, trial stopped preventing from damages  
+
+

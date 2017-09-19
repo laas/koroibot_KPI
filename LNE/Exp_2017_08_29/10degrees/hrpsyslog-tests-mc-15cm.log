@@ -1,0 +1,199 @@
+Bug: shell script unable to determine its own location: .
+hrpsys: no process found
+mem size=8320(6268,596,400,1056)
+HRP2LAAS
+-ORBInitRef NameService=corbaloc:iiop:localhost:2809/NameService
+mem size=8320(6268,596,400,1056)
+provider is already loaded
+provider is already created
+humanoid is already loaded
+HRP2LAAS is already created
+seqplay is already loaded
+seq is already created
+[HRP2LAAS] HRP2LAAS is already running
+[seq] seq is already running
+[provider] provider is already running
+[log] log is not running
+logplugin is already loaded
+provider is already loaded
+provider is already created
+humanoid is already loaded
+seqplay is already loaded
+[provider] provider is already running
+provider is already loaded
+provider is already created
+[provider] provider is already running
+humanoid is already loaded
+HRP2LAAS is already created
+[HRP2LAAS] HRP2LAAS is already running
+seqplay is already loaded
+seq is already created
+[seq] seq is already running
+confirm mode
+[1;37mOK:13:(error:   0.002[deg], calibration data:  -5.249, joint angle:  -5.251)[m
+[1;37mOK:15:(error:   0.001[deg], calibration data: -30.669, joint angle: -30.670)[m
+[1;37mOK:24:(error:  -0.000[deg], calibration data:  94.699, joint angle:  94.699)[m
+[1;37mOK:17:(error:   0.005[deg], calibration data: -94.278, joint angle: -94.283)[m
+[1;37mOK:16:(error:   0.005[deg], calibration data:  60.109, joint angle:  60.104)[m
+[1;37mOK:23:(error:   0.002[deg], calibration data:  60.111, joint angle:  60.109)[m
+[1;37mOK:18:(error:   0.006[deg], calibration data: -92.118, joint angle: -92.124)[m
+[1;37mOK:25:(error:  -0.020[deg], calibration data:  92.111, joint angle:  92.131)[m
+[1;37mOK:26:(error:  -0.000[deg], calibration data:   2.122, joint angle:   2.122)[m
+[1;37mOK:19:(error:  -0.000[deg], calibration data:   2.220, joint angle:   2.220)[m
+[1;37mOK:20:(error:  -0.003[deg], calibration data: -92.279, joint angle: -92.276)[m
+[1;37mOK:27:(error:   0.005[deg], calibration data:  92.298, joint angle:  92.293)[m
+[1;37mOK:28:(error:  -0.004[deg], calibration data: -91.944, joint angle: -91.940)[m
+[1;37mOK:21:(error:  -0.010[deg], calibration data: -92.026, joint angle: -92.016)[m
+[1;37mOK:22:(error:  -0.006[deg], calibration data:  44.581, joint angle:  44.587)[m
+22: servo error limit over
+[1;37mOK:29:(error:   0.000[deg], calibration data:  44.878, joint angle:  44.878)[m
+[1;37mOK: 1:(error:   0.000[deg], calibration data: -35.391, joint angle: -35.391)[m
+[1;37mOK: 7:(error:  -0.002[deg], calibration data:  33.000, joint angle:  33.002)[m
+[1;37mOK: 9:(error:  -0.001[deg], calibration data:  -1.607, joint angle:  -1.606)[m
+[1;37mOK: 3:(error:  -0.001[deg], calibration data:  -1.403, joint angle:  -1.402)[m
+[1;37mOK: 2:(error:   0.010[deg], calibration data:  42.264, joint angle:  42.254)[m
+[1;37mOK: 6:(error:   0.004[deg], calibration data:  44.887, joint angle:  44.883)[m
+[1;37mOK: 0:(error:  -0.005[deg], calibration data: -45.764, joint angle: -45.759)[m
+[1;37mOK: 8:(error:   0.050[deg], calibration data:  43.466, joint angle:  43.416)[m
+[1;37mOK:10:(error:   0.004[deg], calibration data:  43.492, joint angle:  43.488)[m
+[1;37mOK: 4:(error:   0.004[deg], calibration data:  43.446, joint angle:  43.442)[m
+10: servo error limit over
+[1;37mOK:11:(error:  -0.003[deg], calibration data:  24.430, joint angle:  24.433)[m
+[1;37mOK: 5:(error:   0.001[deg], calibration data: -21.779, joint angle: -21.780)[m
+[1;37mOK:14:(error:   0.003[deg], calibration data:  45.179, joint angle:  45.176)[m
+[1;37mOK:12:(error:  -0.000[deg], calibration data:  44.933, joint angle:  44.933)[m
+[HRP2LAAS] Turn Off Relay
+[log] log is not running
+seqplay is already loaded
+seq is already created
+logplugin is already loaded
+log:method(max-length) not found
+[seq] seq is already running
+servo error limit over(LLEG_JOINT3:angle = 45.9648, reference = 57.4686[deg])
+emergency signal
+[log] log is not running
+logplugin is already loaded
+log is already created
+provider is already loaded
+provider is already created
+humanoid is already loaded
+HRP2LAAS is already created
+seqplay is already loaded
+seq is already created
+./hrpsys.sh: line 12:  1050 Segmentation fault      ./hrpsys ${ROBOT}Adaptor.so $NS_OPT
+mem size=8320(6268,596,400,1056)
+iob is unlocked by 1618
+Bug: shell script unable to determine its own location: .
+hrpsys: no process found
+mem size=8320(6268,596,400,1056)
+HRP2LAAS
+-ORBInitRef NameService=corbaloc:iiop:localhost:2809/NameService
+mem size=8320(6268,596,400,1056)
+provider is already loaded
+provider is already created
+humanoid is already loaded
+HRP2LAAS is already created
+seqplay is already loaded
+seq is already created
+[HRP2LAAS] HRP2LAAS is already running
+[seq] seq is already running
+[provider] provider is already running
+seqplay is already loaded
+seq is already created
+logplugin is already loaded
+log is already created
+log:method(max-length) not found
+[seq] seq is already running
+logplugin is already loaded
+log is already created
+provider is already loaded
+provider is already created
+humanoid is already loaded
+HRP2LAAS is already created
+seqplay is already loaded
+seq is already created
+./hrpsys.sh: line 12:  1628 Segmentation fault      ./hrpsys ${ROBOT}Adaptor.so $NS_OPT
+mem size=8320(6268,596,400,1056)
+iob is unlocked by 1642
+Bug: shell script unable to determine its own location: .
+hrpsys: no process found
+mem size=8320(6268,596,400,1056)
+HRP2LAAS
+-ORBInitRef NameService=corbaloc:iiop:localhost:2809/NameService
+mem size=8320(6268,596,400,1056)
+provider is already loaded
+provider is already created
+humanoid is already loaded
+HRP2LAAS is already created
+seqplay is already loaded
+seq is already created
+[HRP2LAAS] HRP2LAAS is already running
+[seq] seq is already running
+[provider] provider is already running
+[log] log is not running
+seqplay is already loaded
+seq is already created
+logplugin is already loaded
+log:method(max-length) not found
+[seq] seq is already running
+servo error limit over(LLEG_JOINT2:angle = -10.904, reference = -22.43[deg])
+emergency signal
+[log] log is not running
+logplugin is already loaded
+log is already created
+provider is already loaded
+provider is already created
+humanoid is already loaded
+HRP2LAAS is already created
+seqplay is already loaded
+seq is already created
+./hrpsys.sh: line 12:  1651 Segmentation fault      ./hrpsys ${ROBOT}Adaptor.so $NS_OPT
+mem size=8320(6268,596,400,1056)
+iob is unlocked by 1667
+Bug: shell script unable to determine its own location: .
+hrpsys: no process found
+mem size=8320(6268,596,400,1056)
+HRP2LAAS
+-ORBInitRef NameService=corbaloc:iiop:localhost:2809/NameService
+mem size=8320(6268,596,400,1056)
+provider is already loaded
+provider is already created
+humanoid is already loaded
+HRP2LAAS is already created
+seqplay is already loaded
+seq is already created
+[HRP2LAAS] HRP2LAAS is already running
+[seq] seq is already running
+[provider] provider is already running
+[log] log is not running
+seqplay is already loaded
+seq is already created
+logplugin is already loaded
+log:method(max-length) not found
+[seq] seq is already running
+servo error limit over(LLEG_JOINT5:angle = 10.2204, reference = -1.3392[deg])
+emergency signal
+[log] log is not running
+logplugin is already loaded
+log is already created
+provider is already loaded
+provider is already created
+humanoid is already loaded
+HRP2LAAS is already created
+seqplay is already loaded
+seq is already created
+./hrpsys.sh: line 12:  1676 Segmentation fault      ./hrpsys ${ROBOT}Adaptor.so $NS_OPT
+mem size=8320(6268,596,400,1056)
+iob is unlocked by 1690
+Bug: shell script unable to determine its own location: .
+hrpsys: no process found
+mem size=8320(6268,596,400,1056)
+HRP2LAAS
+-ORBInitRef NameService=corbaloc:iiop:localhost:2809/NameService
+mem size=8320(6268,596,400,1056)
+provider is already loaded
+provider is already created
+humanoid is already loaded
+HRP2LAAS is already created
+seqplay is already loaded
+seq is already created
